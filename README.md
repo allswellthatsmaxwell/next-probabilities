@@ -5,7 +5,7 @@ For example, if:
 • you are modeling bus wait times with a Poisson  
 • they come an average of every ten minutes  
 • you ran up on the previous bus pulling away  
-• you've been waiting for t<sub>i − 1</sub> minutes after that  
+• you've been waiting for t<sub>i−1</sub> minutes after that  
 then we can ask things like:  
 ◦ what's the probability of the bus coming during minute t<sub>i</sub>?   
 ◦ Is P(arrival = 11 | arrival > 10) greater than P(arrival = 10 | arrival > 9)?   
